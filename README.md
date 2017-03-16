@@ -1,6 +1,6 @@
 # PBO_UTS
 
-Judul Project   : Rental Motor
+Judul Project   : Rental Motor <br>
 Nama            : Nabila Tamimi <br>
 Kelas           : XI RPL 2 <br>
 Absen           : 17 <br>
